@@ -47,15 +47,22 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
+### Lindell Carter
+### Jay Ponce de Leon
+
 ### Ryan Hamblin
 
 ### Alice Karsevar
 
 ### Domenic Scarcella
 
+### Hairo Garcia
+
 ### Jorge Gonzalez 🤖
 
 ### Lucas Steinmacher
+
+### Nicholas Samples
 
 ### Bruce Wayne
 
@@ -73,8 +80,13 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Garrick Suemith
 
+### Alice Karsevar
+
 ### I am a merge conflict 👻
+
+### Brian Choi
 
 ### Liza Pincsak
 
+### Jack Henry
 
