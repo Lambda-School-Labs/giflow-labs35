@@ -49,10 +49,12 @@ The following is a list of steps and instructions on how to complete this guided
 ### Bernie Durfee
 
 ### Lindell Carter
+
 ### Ryan Hamblin
 
 ### Alice Karsevar
 
+### Lucas Steinmacher
 
 ### Bruce Wayne
 
@@ -68,8 +70,8 @@ The following is a list of steps and instructions on how to complete this guided
 
 ## Jonathan Calderon
 
+### Garrick Suemith
+
 ### I am a merge conflict 👻
 
-### Alice Karsevar
-
-###Liza Pincsak
+### Liza Pincsak
