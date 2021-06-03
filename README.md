@@ -51,7 +51,17 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
+### Edgar Trevino
+
+## Jonathan Calderon
+
 ### I am a merge conflict 👻
+
 ### Alice Karsevar
+<<<<<<< HEAD
 
 ### Ash Tilawat
+=======
+###Liza Pincsak
+
+>>>>>>> 128584a846dec7a0f02e5c7db783b2b58982984b
