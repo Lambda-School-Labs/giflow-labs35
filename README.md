@@ -48,6 +48,7 @@ The following is a list of steps and instructions on how to complete this guided
 ### Bernie Durfee
 
 ### Lindell Carter
+
 ### Jay Ponce de Leon
 
 ### Ryan Hamblin
@@ -57,6 +58,14 @@ The following is a list of steps and instructions on how to complete this guided
 ### Jason Corchado
 
 ### Nicholas Samples
+
+### Anhtuan Tran
+
+### Nicholas Samples
+
+### Jorge Gonzalez 🤖
+
+### Lucas Steinmacher
 
 ### Hairo Garcia
 
@@ -80,6 +89,10 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### James White
 
+### Marcos Morales
+
+### James White
+
 ### Chris Burton
 
 ### Edgar Trevino
@@ -91,6 +104,8 @@ The following is a list of steps and instructions on how to complete this guided
 ### Alice Karsevar
 
 ### I am a merge conflict 👻
+
+### Liza Pincsak
 
 ### Brian Choi
 
