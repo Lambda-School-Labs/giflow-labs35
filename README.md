@@ -109,6 +109,10 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
+### Aleksandr Ardanov
+
+### Liza Pincsak
+
 ### Damaris Garcia
 
 ### I am a merge conflict 👻
