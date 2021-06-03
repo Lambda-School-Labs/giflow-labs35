@@ -47,20 +47,26 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
+### Jay Ponce de Leon
+
 ### Ryan Hamblin
 
 ### Alice Karsevar
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### Hairo Garcia
 =======
+=======
+>>>>>>> 81d4b4764590993c8440fc787d514339e1aad856
 =======
 ### Jorge Gonzalez 🤖
 
 ### Lucas Steinmacher
 >>>>>>> fb25606f35d0337c94916981e4871a72b1b8b84f
 
+>>>>>>> fb25606f35d0337c94916981e4871a72b1b8b84f
 ### Bruce Wayne
 
 ### Anas Abdelsalam
@@ -78,6 +84,10 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Garrick Suemith
 
+### Alice Karsevar
+
 ### I am a merge conflict 👻
 
 ### Liza Pincsak
+
+### Jack Henry
