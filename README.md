@@ -1,4 +1,3 @@
-
 # Labs Github Flow
 
 - The following is a guided project that will help you understand the git work flow that we use in Lambda Labs.
@@ -48,13 +47,16 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
+### Jay Ponce de Leon
+
 ### Ryan Hamblin
 
 ### Alice Karsevar
 
-<<<<<<< HEAD
 ### Anhtuan Tran
-=======
+
+### Nicholas Samples
+
 ### Jorge Gonzalez 🤖
 
 ### Lucas Steinmacher
@@ -75,7 +77,14 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Garrick Suemith
 
+### Alice Karsevar
+
 ### I am a merge conflict 👻
 
 ### Liza Pincsak
->>>>>>> 1c15182ad4933693dc9fbe1c10e62aa7eaa4f1b3
+
+### Brian Choi
+
+### Liza Pincsak
+
+### Jack Henry
