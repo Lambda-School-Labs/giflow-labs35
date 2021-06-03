@@ -51,14 +51,28 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
+### Bruce Wayne
+
+### Anas Abdelsalam
+
+### Marcos Morales
+
+### James White
+
+### Chris Burton
+
 ### Edgar Trevino
 
 ## Jonathan Calderon
 
-### I am a merge conflict 👻
+### Garrick Suemith
 
 ### Alice Karsevar
 
 ### Aleksandr Ardanov
 
 ###Liza Pincsak
+
+### I am a merge conflict 👻
+
+### Liza Pincsak
