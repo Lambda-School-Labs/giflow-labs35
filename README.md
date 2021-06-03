@@ -56,25 +56,40 @@ The following is a list of steps and instructions on how to complete this guided
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### Hairo Garcia
 =======
 =======
 >>>>>>> 81d4b4764590993c8440fc787d514339e1aad856
 =======
+### Nicholas Samples
+=======
+=======
+>>>>>>> b715c6f0cb7de825bdf4de369bac87a3495f05c8
+=======
 ### Jorge Gonzalez 🤖
 
 ### Lucas Steinmacher
+<<<<<<< HEAD
 >>>>>>> fb25606f35d0337c94916981e4871a72b1b8b84f
 
+=======
+>>>>>>> b715c6f0cb7de825bdf4de369bac87a3495f05c8
 >>>>>>> fb25606f35d0337c94916981e4871a72b1b8b84f
+
 ### Bruce Wayne
 
 ### Anas Abdelsalam
 
+>>>>>>> 17d99e0cc991fd455017c318de9d6680a613a0e8
 ### Marcos Morales
 
 ### James White
+<<<<<<< HEAD
 >>>>>>> 17d99e0cc991fd455017c318de9d6680a613a0e8
+=======
+>>>>>>> 6e314938d8eb8720c7d62f87ed38a7ab507bdb43
+>>>>>>> b715c6f0cb7de825bdf4de369bac87a3495f05c8
 
 ### Chris Burton
 
@@ -87,6 +102,8 @@ The following is a list of steps and instructions on how to complete this guided
 ### Alice Karsevar
 
 ### I am a merge conflict 👻
+
+### Brian Choi
 
 ### Liza Pincsak
 
