@@ -54,7 +54,12 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
+### Keila Yazdani Bosdet
+
 ### Nicholas Samples
+
+### Nicholas Samples
+
 ### Jorge Gonzalez 🤖
 
 ### Lucas Steinmacher
@@ -62,6 +67,7 @@ The following is a list of steps and instructions on how to complete this guided
 ### Bruce Wayne
 
 ### Anas Abdelsalam
+
 ### Marcos Morales
 
 ### James White
@@ -77,6 +83,8 @@ The following is a list of steps and instructions on how to complete this guided
 ### Alice Karsevar
 
 ### I am a merge conflict 👻
+
+### Liza Pincsak
 
 ### Brian Choi
 
