@@ -47,12 +47,22 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
+<<<<<<< HEAD
 ### Jay Ponce de Leon
 
+=======
+>>>>>>> fb25606f35d0337c94916981e4871a72b1b8b84f
 ### Ryan Hamblin
 
 ### Alice Karsevar
 
+<<<<<<< HEAD
+=======
+### Jorge Gonzalez 🤖
+
+### Lucas Steinmacher
+
+>>>>>>> fb25606f35d0337c94916981e4871a72b1b8b84f
 ### Bruce Wayne
 
 ### Anas Abdelsalam
