@@ -1,3 +1,4 @@
+
 # Labs Github Flow
 
 - The following is a guided project that will help you understand the git work flow that we use in Lambda Labs.
@@ -51,8 +52,13 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
+<<<<<<< HEAD
 ### Will Berman
 
+=======
+### Marcos Morales
+=======
+>>>>>>> 6e314938d8eb8720c7d62f87ed38a7ab507bdb43
 ### James White
 
 ### Chris Burton
@@ -66,4 +72,3 @@ The following is a list of steps and instructions on how to complete this guided
 ### Alice Karsevar
 
 ###Liza Pincsak
-
