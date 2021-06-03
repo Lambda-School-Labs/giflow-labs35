@@ -73,9 +73,6 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### I am a merge conflict 👻
 
-<<<<<<< HEAD
 ### Collin Jensen
 ###Liza Pincsak
-=======
 ### Liza Pincsak
->>>>>>> 17d99e0cc991fd455017c318de9d6680a613a0e8
