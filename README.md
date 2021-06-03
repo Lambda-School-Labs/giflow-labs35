@@ -54,10 +54,36 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+### Hairo Garcia
+=======
+=======
+>>>>>>> 81d4b4764590993c8440fc787d514339e1aad856
+=======
+### Nicholas Samples
+=======
+=======
+>>>>>>> b715c6f0cb7de825bdf4de369bac87a3495f05c8
+=======
+### Jorge Gonzalez 🤖
+
+### Lucas Steinmacher
+<<<<<<< HEAD
+>>>>>>> fb25606f35d0337c94916981e4871a72b1b8b84f
+
+=======
+>>>>>>> b715c6f0cb7de825bdf4de369bac87a3495f05c8
+>>>>>>> fb25606f35d0337c94916981e4871a72b1b8b84f
+=======
 ### Nicholas Samples
 ### Jorge Gonzalez 🤖
 
 ### Lucas Steinmacher
+>>>>>>> 6b80d996cb25c26a2f8a553b57e76acb0f4f05c0
 
 ### Bruce Wayne
 
@@ -65,6 +91,14 @@ The following is a list of steps and instructions on how to complete this guided
 ### Marcos Morales
 
 ### James White
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 17d99e0cc991fd455017c318de9d6680a613a0e8
+=======
+>>>>>>> 6e314938d8eb8720c7d62f87ed38a7ab507bdb43
+>>>>>>> b715c6f0cb7de825bdf4de369bac87a3495f05c8
+=======
+>>>>>>> 6b80d996cb25c26a2f8a553b57e76acb0f4f05c0
 
 ### Chris Burton
 
