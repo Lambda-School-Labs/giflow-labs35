@@ -52,13 +52,10 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
-<<<<<<< HEAD
 ### Will Berman
 
-=======
 ### Marcos Morales
 =======
->>>>>>> 6e314938d8eb8720c7d62f87ed38a7ab507bdb43
 ### James White
 
 ### Chris Burton
