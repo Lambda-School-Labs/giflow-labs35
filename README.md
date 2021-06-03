@@ -47,4 +47,16 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
+<<<<<<< HEAD
 ### Lindell Carter
+=======
+### Ryan Hamblin
+
+### Alice Karsevar
+
+### Edgar Trevino
+
+## Jonathan Calderon
+
+### I am a merge conflict 👻
+>>>>>>> main
