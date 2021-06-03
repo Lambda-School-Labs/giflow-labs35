@@ -54,12 +54,20 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
-
 ### Jason Corchado
 
 ### Nicholas Samples
 
+### Hairo Garcia
+
 ### Nicholas Samples
+
+### Jorge Gonzalez 🤖
+
+### Lucas Steinmacher
+
+### Nicholas Samples
+
 ### Jorge Gonzalez 🤖
 
 ### Lucas Steinmacher
