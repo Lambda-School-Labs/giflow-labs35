@@ -106,6 +106,9 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
+
+### Damaris Garcia
+
 ### I am a merge conflict 👻
 
 ### Liza Pincsak
@@ -115,4 +118,8 @@ The following is a list of steps and instructions on how to complete this guided
 ### Liza Pincsak
 
 ### Jack Henry
+<<<<<<< HEAD
+>>>>>>> origin
+=======
+
 >>>>>>> origin
