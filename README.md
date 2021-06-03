@@ -47,6 +47,7 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
+### Lindell Carter
 ### Jay Ponce de Leon
 
 ### Ryan Hamblin
@@ -54,6 +55,8 @@ The following is a list of steps and instructions on how to complete this guided
 ### Alice Karsevar
 
 ### Keila Yazdani Bosdet
+
+### Nicholas Samples
 
 ### Nicholas Samples
 
