@@ -51,6 +51,8 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
+### Lucas Steinmacher
+
 ### Bruce Wayne
 
 ### Anas Abdelsalam
