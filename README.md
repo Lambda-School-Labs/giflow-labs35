@@ -47,12 +47,15 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
+### Jay Ponce de Leon
+
 ### Ryan Hamblin
 
 ### Alice Karsevar
 
 ### Jason Corchado
 
+=======
 ### Jorge Gonzalez 🤖
 
 ### Lucas Steinmacher
@@ -72,6 +75,8 @@ The following is a list of steps and instructions on how to complete this guided
 ## Jonathan Calderon
 
 ### Garrick Suemith
+
+### Alice Karsevar
 
 ### I am a merge conflict 👻
 
