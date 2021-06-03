@@ -47,6 +47,8 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
+### Lindell Carter
+
 ### Jay Ponce de Leon
 
 ### Ryan Hamblin
@@ -61,9 +63,27 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Lucas Steinmacher
 
+### Hairo Garcia
+
+### Nicholas Samples
+
+### Jorge Gonzalez 🤖
+
+### Lucas Steinmacher
+
+### Nicholas Samples
+
+### Jorge Gonzalez 🤖
+
+### Lucas Steinmacher
+
 ### Bruce Wayne
 
 ### Anas Abdelsalam
+
+### Marcos Morales
+
+### James White
 
 ### Marcos Morales
 
