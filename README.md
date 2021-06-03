@@ -53,3 +53,17 @@ The following is a list of steps and instructions on how to complete this guided
 ### Alice Karsevar
 
 ### Marcos Morales
+=======
+### James White
+
+### Chris Burton
+
+### Edgar Trevino
+
+## Jonathan Calderon
+
+### I am a merge conflict 👻
+
+### Alice Karsevar
+
+###Liza Pincsak
