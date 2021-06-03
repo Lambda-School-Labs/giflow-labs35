@@ -53,9 +53,11 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
+
 ### Jason Corchado
 
-=======
+### Nicholas Samples
+
 ### Jorge Gonzalez 🤖
 
 ### Lucas Steinmacher
@@ -79,6 +81,8 @@ The following is a list of steps and instructions on how to complete this guided
 ### Alice Karsevar
 
 ### I am a merge conflict 👻
+
+### Brian Choi
 
 ### Liza Pincsak
 
