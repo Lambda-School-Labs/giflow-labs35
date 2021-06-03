@@ -51,6 +51,8 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
+### James White
+
 ### Chris Burton
 
 ### Edgar Trevino
@@ -62,3 +64,4 @@ The following is a list of steps and instructions on how to complete this guided
 ### Alice Karsevar
 
 ###Liza Pincsak
+
