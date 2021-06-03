@@ -51,7 +51,13 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
+
 ### Bruce Wayne
+
+### James White
+
+### Chris Burton
+
 ### Edgar Trevino
 
 ## Jonathan Calderon
@@ -59,5 +65,6 @@ The following is a list of steps and instructions on how to complete this guided
 ### I am a merge conflict 👻
 
 ### Alice Karsevar
+
 ###Liza Pincsak
 
