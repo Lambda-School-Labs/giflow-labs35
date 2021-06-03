@@ -47,4 +47,17 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
+<<<<<<< HEAD
 ### Jay Ponce de Leon
+=======
+### Ryan Hamblin
+
+### Alice Karsevar
+
+## Jonathan Calderon
+
+### I am a merge conflict 👻
+
+### Alice Karsevar
+
+>>>>>>> 09fc07b4c875975ec602e93cf36223cc90311b9b
