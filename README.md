@@ -48,13 +48,18 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
+
 ### Ryan Hamblin
 
 ### Alice Karsevar
 
+
+### Bruce Wayne
+
 ### Anas Abdelsalam
+
 ### Marcos Morales
-=======
+
 ### James White
 
 ### Chris Burton
@@ -63,9 +68,13 @@ The following is a list of steps and instructions on how to complete this guided
 
 ## Jonathan Calderon
 
+### Garrick Suemith
+
 ### I am a merge conflict 👻
 
-### Alice Karsevar
-
+<<<<<<< HEAD
 ### Collin Jensen
 ###Liza Pincsak
+=======
+### Liza Pincsak
+>>>>>>> 17d99e0cc991fd455017c318de9d6680a613a0e8
