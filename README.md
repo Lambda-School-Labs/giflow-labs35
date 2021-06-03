@@ -47,14 +47,75 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
+### Lindell Carter
+
+### Jay Ponce de Leon
+
 ### Ryan Hamblin
 
 ### Alice Karsevar
 
 ### Juan Ruiz
 
+### Justin A
+
+### Jason Corchado
+
+### Nicholas Samples
+
+### Anhtuan Tran
+
+### Nicholas Samples
+
+### Jorge Gonzalez 🤖
+
+### Lucas Steinmacher
+
+### Hairo Garcia
+
+### Nicholas Samples
+
+### Jorge Gonzalez 🤖
+
+### Lucas Steinmacher
+
+### Nicholas Samples
+
+### Jorge Gonzalez 🤖
+
+### Lucas Steinmacher
+
+### Bruce Wayne
+
+### Anas Abdelsalam
+
+### Marcos Morales
+
+### James White
+
+### Marcos Morales
+
+### James White
+
+### Chris Burton
+
 ### Edgar Trevino
 
 ## Jonathan Calderon
 
+### Garrick Suemith
+
+### Alice Karsevar
+
+### Damaris Garcia
+
 ### I am a merge conflict 👻
+
+### Liza Pincsak
+
+### Brian Choi
+
+### Liza Pincsak
+
+### Jack Henry
+
